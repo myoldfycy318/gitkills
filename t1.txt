@@ -5,3 +5,4 @@ git stash
 春节
 阳关普照奖
 300块大奖
+git merge --no-ff
