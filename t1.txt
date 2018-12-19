@@ -13,3 +13,6 @@ $ git rebase origin
 
 git reset --hard 测试
 git merge --no-ff
+
+
+---> git rebase
