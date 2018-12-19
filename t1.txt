@@ -10,5 +10,6 @@ git rebase:
 $ git checkout mywork
 $ git rebase origin
 这些命令会把你的"mywork"分支里的每个提交(commit)取消掉，并且把它们临时 保存为补丁(patch)(这些补丁放到".git/rebase"目录中),然后把"mywork"分支更新 为最新的"origin"分支，最后把保存的这些补丁应用到"mywork"分支上。
-=======
+
 git reset --hard 测试
+git merge --no-ff
