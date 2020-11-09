@@ -20,3 +20,4 @@ git merge --no-ff
 
 q
 2
+g1
